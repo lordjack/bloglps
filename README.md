@@ -5,4 +5,4 @@ Este blog foi desenvolvido durante a elaboração da minha dissertação que tem
 
 Para o funcionamento completo do blog, é necessário que ele seja derivado e implantado através da ferramenta [ESPD](https://github.com/lordjack/easy-software-product-derivation). 
 
-Qualquer dúvida sobre como configurar e utilizar a ferramenta bem como o blog basta entrar em contato comigo através do email [lordjackson@gmail.com](mailto:lordjackson@gmail.com).
+Qualquer dúvida sobre como configurar e utilizar a ferramenta bem como o blog basta entrar em contato comigo através do email [lordjackson@gmail.com](mailto:lordjackson@gmail.com) ou dar uma conferida na minha [dissertação](https://repositorio.ufrn.br/jspui/handle/123456789/26737), nela explico todo o funcionamento da ferramenta e também no apêndice tem o passo a passo de sua utilização.
